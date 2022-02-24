@@ -1,4 +1,4 @@
-package com.techprimers.testing;
+package com.testing;
 
 import org.junit.jupiter.api.*;
 
